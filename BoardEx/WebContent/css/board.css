@@ -1,0 +1,40 @@
+@charset "UTF-8";
+#wrap{width:970px;  /* �쒓렇以묒뿉 id 媛 wrap �대씪怨� �섏뼱 �덈뒗 �쒓렇�ㅼ� 媛�대뜲 �뺣젹 */
+	  margin: 0;
+	  margin-left: auto;
+	  margin-right:auto;
+	
+}
+h1{
+	color:green; 	
+}
+table{
+	width:100%; border-collapse: collapse; /* �뚯씠釉붿뿉�� 移몃뱾�� �쒕줈 踰뚯뼱吏�� 寃� */
+	font-size:12px; /*湲瑗댁쓽 �ш린*/
+	line-height:24px; /*以� 媛꾧꺽(�꾩븘��) */
+}
+table td, th{
+	border:#d3d3d3 solid 1px; /*寃쎄퀎�� �됱긽 �ㅽ���, 援듦린*/ 
+	padding:5px; /*�덉そ �щ갚 */
+	
+}
+th{
+	background: yellowgreen; /*th留뚯쓽 諛곌꼍��*/
+	width:120px;
+	
+}
+img{
+	width:220px;
+	height: 300px;
+}
+a{
+	text-decoration: none; /* 留곹겕 �됯퉼 or 諛묒쨪 �놁븷湲�*/
+	color:black;/* 湲�� �됱긽*/
+}
+a:HOVER {
+ 	text-decoration: underline; /*諛묒쨪�� 留뚮뱾�대씪*/
+ 	color:green;
+}
+.dd{
+	
+}
